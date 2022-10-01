@@ -12,16 +12,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="google scholar profile link" target="blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" height="40" width="40"/></a>
-  <a href="link here" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" height="40" width="40"/></a>
-  <a href="link here" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="40" width="40"/></a>
-  
-<a href="link here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
-<a href="link here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="username" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/turabbajeer202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turabbajeer202" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -18,7 +18,7 @@
 
 <h3 align="left">My Stats: </h3>
 
-![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=turab45&count_private=true&show_icons=true)
+![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kislayraj95&count_private=true&show_icons=true)
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kislayraj95" alt="kislayraj95" /></a> </p>
 

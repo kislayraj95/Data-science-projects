@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kislay Raj</h1>
-<h3 align="center">A passionate Data Scientist, Computer Vision, Deep Learning.</h3>
+<h3 align="center">A passionate Data Scientist,Computer Vision Research Scholar, Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kislayraj95&label=Profile%20views&color=0e75b6&style=flat" alt="kislayraj95" /> </p>
 

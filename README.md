@@ -6,7 +6,6 @@
 - 👀 I’m interested in Neurosymbolic AI, Symbolic Resoning, fuzzy logic, Pattern recognition.
 - 🌱 I’m currently learning Neurosymbolic AI, Symbolic Resoning.
 - 💞️ I’m looking to collaborate on Bridging the gap between Deep Learning and Symbolic Reasoning for Explainable and Trustworthy Decision Support in especially Dynamic environment.
-- 📫 How to reach me through kislay.raj2@mail.dcu.ie.
 
 - 👨‍💻 All of my projects are available at [https://github.com/kislayraj95](https://github.com/kislayraj95)
 
